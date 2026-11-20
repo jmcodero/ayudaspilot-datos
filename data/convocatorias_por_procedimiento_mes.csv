@@ -1,0 +1,13 @@
+mes,tipo_convocatoria,n_convocatorias,presupuesto_total_eur,n_con_presupuesto,n_convocatorias_mes_con_tipo,n_convocatorias_mes_total,cobertura_tipo_pct
+2026-07,Concesión directa - canónica,59,46741869.2,56,1903,6436,29.6
+2026-07,Concesión directa - instrumental,1353,230933562.54,1333,1903,6436,29.6
+2026-07,Concurrencia competitiva - canónica,491,648062955.17,473,1903,6436,29.6
+2026-08,Concesión directa - canónica,111,48419752.16,109,3579,3838,93.3
+2026-08,Concesión directa - instrumental,2662,605194839.87,2661,3579,3838,93.3
+2026-08,Concurrencia competitiva - canónica,806,548099463.53,796,3579,3838,93.3
+2026-09,Concesión directa - canónica,195,356416101.58,193,5286,5353,98.7
+2026-09,Concesión directa - instrumental,3684,1005514302.12,3679,5286,5353,98.7
+2026-09,Concurrencia competitiva - canónica,1407,949754212.89,1396,5286,5353,98.7
+2026-10,Concesión directa - canónica,41,109430662.42,41,1008,6172,16.3
+2026-10,Concesión directa - instrumental,729,251732605.55,728,1008,6172,16.3
+2026-10,Concurrencia competitiva - canónica,238,104929522.56,238,1008,6172,16.3
