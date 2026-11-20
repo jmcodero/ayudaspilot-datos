@@ -2,7 +2,7 @@
 
 Series **agregadas** de convocatorias y concesiones de subvenciones y ayudas públicas en España, elaboradas por [AyudasPilot](https://ayudaspilot.com) a partir de la **Base de Datos Nacional de Subvenciones (BDNS)**. Están pensadas para periodistas, investigadores y reutilizadores que necesiten cifras mensuales y anuales listas para usar, sin tener que descargar millones de registros.
 
-- Fecha de corte: **20 de noviembre de 2026**. Las series mensuales terminan en el último mes completo, **octubre de 2026**.
+- Se actualiza automáticamente el día 2 de cada mes. La fecha de corte de cada versión está en `datapackage.json` (campo `version`) y en `data/_meta/`. Las series mensuales terminan en el último mes completo.
 - Formato: CSV UTF-8, separador coma, con cabecera. Descritos en [`datapackage.json`](datapackage.json) ([Frictionless Data](https://specs.frictionlessdata.io/)).
 - Licencia: [CC BY 4.0](LICENSE).
 - Más contexto: [ayudaspilot.com](https://ayudaspilot.com) · [Prensa](https://ayudaspilot.com/prensa) · [Metodología](https://ayudaspilot.com/metodologia) · [Observatorio](https://ayudaspilot.com/observatorio)
@@ -11,7 +11,7 @@ Series **agregadas** de convocatorias y concesiones de subvenciones y ayudas pú
 
 > Fuente: AyudasPilot (ayudaspilot.com), a partir de la Base de Datos Nacional de Subvenciones (BDNS)
 
-Si es posible, enlaza a https://ayudaspilot.com/observatorio e indica la fecha de corte del conjunto (20-nov-2026).
+Si es posible, enlaza a https://ayudaspilot.com/observatorio e indica la fecha de corte del conjunto (campo `version` de `datapackage.json`).
 
 ## Ficheros y cobertura medida
 
